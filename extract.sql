@@ -1,0 +1,1 @@
+SELECT words.word FROM "WORDS" WHERE lang == 'en'
